@@ -1,2 +1,1 @@
-# discordbotwebsite2
-Discord Bot Website
+# Zechivas Code
